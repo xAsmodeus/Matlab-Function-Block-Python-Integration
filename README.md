@@ -6,6 +6,8 @@ There has been a task that I had to deal with in the early stages after joining 
 
 <img width="636" height="163" alt="Screenshot_1" src="https://github.com/user-attachments/assets/562bc987-8c12-4690-b172-f3bdc9c52983" />
 
+---
+
 ## Approach
 
 In general, my MATLAB required almost no modification to run Python. There are functions such as **pyenv** that are useful for setting up Python in MATLAB, as well as **py.sys.version** for checking whether the interface is working.
@@ -19,9 +21,13 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 <img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/9b227248-c62a-442e-926b-be229df70d52" />
 
-## TEST FILES
+---
+
+## Test Files
 
 The files in the repository are examples for you to run. 
+
+---
 
 ## Observations
 1) No Problem with 1 / N inputs -----> 1 / M outputs
@@ -29,7 +35,9 @@ The files in the repository are examples for you to run.
    
 2) Simulink may not directly support the Python language. Therefore, scripts that take blocks_of_code must be written exclusively in MATLAB functions. In other words, the code must be converted from Python => MATLAB.
 
-3) Special attention must be paid to the dimensions of the variables, otherwise the model will not run. (They can be changed by clicking on function_block > Edit Data > Symbols ( & Property Inspector). 
+3) Special attention must be paid to the dimensions of the variables, otherwise the model will not run. (They can be changed by clicking on function_block > Edit Data > Symbols ( & Property Inspector).
+
+---
 
 ## References
 
