@@ -14,10 +14,6 @@ There has been a task that I had to deal with in the early stages after joining 
 
 In general, my MATLAB required almost no modification to run Python. There are functions such as **pyenv** that are useful for setting up Python in MATLAB, as well as **py.sys.version** for checking whether the interface is working.
 
----
-
-## 📘 Examples
-
 > USED: Display block, constants(input)/output blocks, Matlab Function Block.
 
 **1. Two inputs -> adds the numbers together -> displays the result.** 
