@@ -14,8 +14,13 @@ There has been a task that I had to deal with in the early stages after joining 
 ## 🧠 Approach
 
 In general, my MATLAB required almost no modification to run Python. There are functions such as **pyenv** that are useful for setting up Python in MATLAB, as well as **py.sys.version** for checking whether the interface is working.
-## Examples
-    USED: Display block, constants(input)/output blocks, Matlab Function Block.
+
+---
+
+## 📘 Examples
+
+> USED: Display block, constants(input)/output blocks, Matlab Function Block.
+
 **1. Two inputs -> adds the numbers together -> displays the result.** 
 
 <img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/85ac40c9-0f6c-403c-9e28-14c07cd50496" />  
@@ -39,6 +44,12 @@ The files in the repository are examples for you to run.
 2) Simulink may not directly support the Python language. Therefore, scripts that take blocks_of_code must be written exclusively in MATLAB functions. In other words, the code must be converted from Python => MATLAB.
 
 3) Special attention must be paid to the dimensions of the variables, otherwise the model will not run. (They can be changed by clicking on function_block > Edit Data > Symbols ( & Property Inspector).
+
+---
+
+## 🧪 Tests
+
+- Run and tested on Google Colab
 
 ---
 
