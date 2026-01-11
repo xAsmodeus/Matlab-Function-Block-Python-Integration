@@ -16,11 +16,11 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 > USED: Display block, constants(input)/output blocks, Matlab Function Block.
 
-**1. Two inputs -> adds the numbers together -> displays the result.** 
+**1) Two inputs -> adds the numbers together -> displays the result.** 
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/85ac40c9-0f6c-403c-9e28-14c07cd50496" />  
 
-**2. An multiplication example with libraries (numpy) imported into Python code.**
+**2) An multiplication example with libraries (numpy) imported into Python code.**
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/9b227248-c62a-442e-926b-be229df70d52" />
 
