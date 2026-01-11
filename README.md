@@ -11,7 +11,7 @@ There has been a task that I had to deal with in the early stages after joining 
 
 ---
 
-## Approach
+## 🧠 Approach
 
 In general, my MATLAB required almost no modification to run Python. There are functions such as **pyenv** that are useful for setting up Python in MATLAB, as well as **py.sys.version** for checking whether the interface is working.
 ## Examples
@@ -26,13 +26,13 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 ---
 
-## Test Files
+## 📦 Test Files
 
 The files in the repository are examples for you to run. 
 
 ---
 
-## Observations
+## 🔬 Observations
 1) No Problem with 1 / N inputs -----> 1 / M outputs
    The MATLAB function block automatically recognizes the model's inputs/outputs through the code and thus adjusts what is needed. Then you just need to tweak variables/dimensions/connections, etc.
    
@@ -42,7 +42,7 @@ The files in the repository are examples for you to run.
 
 ---
 
-## References
+## 🔗 References
 
   1. https://chatgpt.com/share/6755fced-a7b4-8001-918d-66a337f7cdb4
   
