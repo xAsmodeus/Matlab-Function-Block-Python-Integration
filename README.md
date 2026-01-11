@@ -42,7 +42,7 @@ The files in the repository are examples for you to run.
 
 | Characteristic         | Detail                                      |
 | :--------------------- | :------------------------------------------ |
-| **Inputs**      | No Problem with 1 / N inputs -----> 1 / M outputs.The MATLAB function block automatically recognizes the model's inputs/outputs through the code and thus adjusts what is needed. Then you just need to tweak variables/dimensions/connections, etc.                              |
+| **Inputs**      | No Problem with 1 / N inputs -----> 1 / M outputs. The MATLAB function block automatically recognizes the model's inputs/outputs through the code and thus adjusts what is needed. Then you just need to tweak variables/dimensions/connections, etc.                              |
 | **Python Support**  | Simulink may not directly support the Python language. Therefore, scripts that take blocks_of_code must be written exclusively in MATLAB functions. In other words, the code must be converted from Python => MATLAB.                           |
 | **Dimensions**| Special attention must be paid to the dimensions of the variables, otherwise the model will not run. (They can be changed by clicking on function_block > Edit Data > Symbols ( & Property Inspector).                              |
 
