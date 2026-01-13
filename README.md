@@ -11,9 +11,6 @@ There has been a task that I had to deal with in the early stages after joining 
       <img width="636" height="163" alt="Screenshot_1" src="https://github.com/user-attachments/assets/562bc987-8c12-4690-b172-f3bdc9c52983" /></a>
   </p> </div>
 
-
-
-
 ---
 
 ## 🧠 Approach
