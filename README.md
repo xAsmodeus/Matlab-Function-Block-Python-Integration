@@ -2,6 +2,14 @@
 
 ---
 
+## 📚 Table of Contents
+- [Overview](#overview)
+- [Approach](#approach)
+- [Test Files](#testfiles)
+- [Tests](#tests)
+- [References](#references)
+---
+
 ## 🔍 Overview
                                               
 There has been a task that I had to deal with in the early stages after joining HERMES Team. That includes a simple hybrid schema that uses Python and Matlab to create a type of subsystem that could utilize the team's Python code in the Matlab and Simulink environment.
@@ -58,4 +66,10 @@ The files in the repository are examples for you to run.
 ---
 
 ## ⚖️ Licence
+(empty for the moment)
+
+---
+
+## 💬 Contact
+For any questions, contact me via email: georgekoupni@gmail.com
   
