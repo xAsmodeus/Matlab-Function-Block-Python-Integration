@@ -6,8 +6,12 @@
 - [Overview](#overview)
 - [Approach](#approach)
 - [Test Files](#testfiles)
+- [Observations](#observations)
 - [Tests](#tests)
 - [References](#references)
+- [Licence](#licence)
+- [Contact](#contact)
+
 ---
 
 ## 🔍 Overview
