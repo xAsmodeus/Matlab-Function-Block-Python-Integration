@@ -57,7 +57,7 @@ The files in the repository are examples for you to run.
 
 ---
 
-## 🧪 Tests
+## 🛠️ Tools
 
 - Run and tested on Matlab Simulink R2023b
 
