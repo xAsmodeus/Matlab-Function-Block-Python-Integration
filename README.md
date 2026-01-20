@@ -7,7 +7,7 @@
 - [Approach](#approach)
 - [Test Files](#testfiles)
 - [Observations](#observations)
-- [Tests](#tests)
+- [Tools & Technologies](#tools-technologies)
 - [References](#references)
 - [Licence](#licence)
 - [Contact](#contact)
