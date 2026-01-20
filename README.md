@@ -59,7 +59,7 @@ The files in the repository are examples for you to run.
 
 ## 🛠️ Tools & Technologies
 
-1) Matlab Simulink R2023b
+  1) Matlab Simulink R2023b
 
 ---
 
