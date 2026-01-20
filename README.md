@@ -4,11 +4,12 @@
 
 ## 📚 Table of Contents
 - [Overview](#overview)
+- [Project Structure](#project-structure)
+- [Tools & Technologies](#tools-technologies)
+- [Installation](#installation)
 - [Approach](#approach)
 - [Test Files](#testfiles)
 - [Observations](#observations)
-- [Tools & Technologies](#tools-technologies)
-- [References](#references)
 - [Licence](#licence)
 - [Contact](#contact)
 
