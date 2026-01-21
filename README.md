@@ -4,12 +4,12 @@
 
 ## 📚 Table of Contents
 - [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Tools & Technologies](#tools-technologies)
-- [Installation](#installation)
 - [Approach](#approach)
-- [Test Files](#testfiles)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Tools & Technologies](#tools-technologies)
 - [Observations](#observations)
+- [Test Files](#testfiles)
 - [Licence](#licence)
 - [Contact](#contact)
 
@@ -42,11 +42,13 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 ---
 
-## 📦 Test Files
+## 🛠️ Tools & Technologies
 
-The files in the repository are examples for you to run. 
+- **Language:** Matlab, Python (what version?)
+- **Libraries:** (???)
 
 ---
+
 
 ## 🔬 Observations
 
@@ -58,10 +60,9 @@ The files in the repository are examples for you to run.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 📦 Test Files
 
-- **Language:** Matlab, Python (what version?)
-- **Libraries:** (???)
+The files in the repository are examples for you to run. 
 
 ---
 
