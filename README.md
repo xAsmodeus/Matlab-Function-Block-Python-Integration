@@ -5,7 +5,6 @@
 ## 📚 Table of Contents
 - [Overview](#overview)
 - [Approach](#approach)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Tools & Technologies](#tools-technologies)
 - [Observations](#observations)
