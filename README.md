@@ -10,7 +10,6 @@
 - [Observations](#observations)
 - [Test Files](#testfiles)
 - [Licence](#licence)
-- [Contact](#contact)
 
 ---
 
@@ -69,13 +68,3 @@ The files in the repository are examples for you to run.
 (empty for the moment)
 
 ---
-
-## 🔗 References
-
-  1. https://chatgpt.com/share/6755fced-a7b4-8001-918d-66a337f7cdb4
-
----
-
-## 💬 Contact
-For any questions, contact me via email: georgekoupni@gmail.com
-  
