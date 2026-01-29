@@ -65,7 +65,7 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 ## 📦 Test Files
 
-Use the test files [Python Scripts](Python%20Scripts/) and run them.
+Use the files [Python Scripts](Python%20Scripts/) for testing.
 
 ---
 
