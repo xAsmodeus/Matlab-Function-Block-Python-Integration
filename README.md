@@ -6,7 +6,7 @@
 - [Overview](#overview)
 - [Approach](#approach)
 - [Installation](#installation)
-- [Tools & Technologies](#tools-technologies)
+- [Technology Stack](#teck-stack)
 - [Observations](#observations)
 - [Test Files](#testfiles)
 - [Licence](#licence)
@@ -45,7 +45,7 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technology Stack
 
 - **Language:** Matlab, Python (what version?)
 - **Libraries:** (???)
