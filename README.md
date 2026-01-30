@@ -47,9 +47,9 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 ## 🛠️ Technology Stack
 
-- **Language:** Matlab, Python (what version?)
-- **Libraries:** (???)
-
+- **Language:** Matlab, Python (v ...)
+- **Modules:** numpy
+- **Environment** Simulink
 ---
 
 
