@@ -7,6 +7,7 @@
 - [Approach](#approach)
 - [Installation](#installation)
 - [Technology Stack](#teck-stack)
+- [Results](#results)
 - [Observations](#observations)
 - [Test Files](#testfiles)
 - [Licence](#licence)
