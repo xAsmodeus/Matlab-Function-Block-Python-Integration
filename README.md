@@ -74,6 +74,4 @@ Use the files [Python Scripts](Python%20Scripts/) for testing.
 ---
 
 ## ⚖️ Licence
-(empty for the moment)
-
----
+See the [Licence](LICENCE.md/) 
