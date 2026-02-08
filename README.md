@@ -2,7 +2,7 @@
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 - [Overview](#overview)
 - [Approach](#approach)
 - [Installation](#installation)
@@ -14,7 +14,7 @@
 
 ---
 
-## Overview
+## 🧭 Overview
                                               
 There has been a task that I had to deal with in the early stages after joining HERMES Team. That includes a simple hybrid schema that uses Python and Matlab to create a type of subsystem that could utilize the team's Python code in the Matlab and Simulink environment.
 
@@ -25,7 +25,7 @@ There has been a task that I had to deal with in the early stages after joining 
 
 ---
 
-## Approach
+## 🛠️ Approach
 
 In general, my MATLAB required almost no modification to run Python. There are functions such as **pyenv** that are useful for setting up Python in MATLAB, as well as **py.sys.version** for checking whether the interface is working.
 
@@ -41,11 +41,11 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 ---
 
-## Installation
+## ⚙️ Installation
 
 ---
 
-## Technology Stack
+## 🧰 Technology Stack
 
 - **Language:** Matlab, Python (v ...)
 - **Modules:** numpy
@@ -53,7 +53,7 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 ---
 
-## Results
+## 📊 Results
 
 ---
 
@@ -67,11 +67,11 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 ---
 
-## Test Files
+## 🧪 Test Files
 
 Use the files [Python Scripts](Python%20Scripts/) for testing.
 
 ---
 
-## License
+## 📜 License
 See the [License](LICENSE.md/) 
