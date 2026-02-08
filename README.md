@@ -10,7 +10,7 @@
 - [Results](#results)
 - [Observations](#observations)
 - [Test Files](#testfiles)
-- [Licence](#licence)
+- [License](#license)
 
 ---
 
@@ -73,5 +73,5 @@ Use the files [Python Scripts](Python%20Scripts/) for testing.
 
 ---
 
-## ⚖️ Licence
-See the [Licence](LICENCE.md/) 
+## ⚖️ License
+See the [License](LICENSE.md/) 
