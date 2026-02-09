@@ -81,3 +81,7 @@ MIT [License](LICENSE/)
 ---
 
 ## 🙌 Credits 🚧under construction🚧
+| Sources |
+|--------|
+| Python Scripts were from Giannoulas Giannis | 
+| https://chatgpt.com |
