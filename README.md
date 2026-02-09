@@ -7,7 +7,6 @@
 - [Approach](#approach)
 - [Installation](#installation)
 - [Technology Stack](#teck-stack)
-- [Results](#results)
 - [Observations](#observations)
 - [Test Files](#testfiles)
 - [License](#license)
@@ -28,8 +27,6 @@ There has been a task that I had to deal with in the early stages after joining 
 
 ## 🛠️ Approach
 
-In general, my MATLAB required almost no modification to run Python. There are functions such as **pyenv** that are useful for setting up Python in MATLAB, as well as **py.sys.version** for checking whether the interface is working.
-
 - USED: Display block, constants(input)/output blocks, Matlab Function Block.
 
 **1) Two inputs -> adds the numbers together -> displays the result.** 
@@ -44,21 +41,19 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 ## ⚙️ Installation
 
+In general, my MATLAB required almost no modification to run Python. There are functions such as **pyenv** that are useful for setting up Python in MATLAB, as well as **py.sys.version** for checking whether the interface is working.
+
 ---
 
 ## 🧰 Technology Stack
 
-- **Language:** Matlab, Python (v ...)
+- **Languages:** Matlab, Python 3
 - **Modules:** numpy
-- **Environment** Simulink
+- **Environments** Matlab, Simulink
 
 ---
 
-## 📊 Results
-
----
-
-## Observations
+## 👀 Observations
 
 | Characteristic         | Detail                                      |
 | :--------------------- | :------------------------------------------ |
@@ -80,8 +75,9 @@ MIT [License](LICENSE/)
 
 ---
 
-## 🙌 Credits 🚧under construction🚧
+## 🙌 Credits 
+
 | Sources |
 |--------|
-| Python Scripts were from Giannoulas Giannis | 
+| Python Scripts were given from Giannoulas Giannis | 
 | https://chatgpt.com |
