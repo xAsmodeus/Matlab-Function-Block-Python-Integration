@@ -11,6 +11,7 @@
 - [Observations](#observations)
 - [Test Files](#testfiles)
 - [License](#license)
+- [Credits](#credits)
 
 ---
 
@@ -73,5 +74,10 @@ Use the files [Python Scripts](Python%20Scripts/) for testing.
 
 ---
 
-## 📜 License
-See the [License](LICENSE.md/) 
+## 🛡️ Licence
+
+MIT [License](LICENSE/) 
+
+---
+
+## 🙌 Credits
