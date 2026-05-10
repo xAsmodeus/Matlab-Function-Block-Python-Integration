@@ -81,3 +81,12 @@ MIT [License](LICENSE/)
 |--------|
 | Python Scripts were given from Giannoulas Giannis | 
 | https://chatgpt.com |
+
+---
+
+<div align="center">
+
+## 📬 Contact
+
+For any particular questions you can reach me via the email: georgekoupni@gmail.com
+
