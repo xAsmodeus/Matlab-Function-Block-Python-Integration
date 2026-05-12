@@ -69,7 +69,7 @@ Use the files [Python Scripts](Python%20Scripts/) for testing.
 
 ---
 
-## 📜 Licence
+## 📜 License
 
 MIT [License](LICENSE/) 
 
