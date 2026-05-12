@@ -14,7 +14,7 @@
 
 ---
 
-## 🧭 Overview
+## 🔍 Overview
                                               
 There has been a task that I had to deal with in the early stages after joining HERMES Team. That includes a simple hybrid schema that uses Python and Matlab to create a type of subsystem that could utilize the team's Python code in the Matlab and Simulink environment.
 
@@ -25,7 +25,7 @@ There has been a task that I had to deal with in the early stages after joining 
 
 ---
 
-## 🛠️ Approach
+## 💡 Approach
 
 - USED: Display block, constants(input)/output blocks, Matlab Function Block.
 
