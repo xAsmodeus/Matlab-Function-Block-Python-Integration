@@ -3,14 +3,14 @@
 ---
 
 ## 📑 Table of Contents
-- [Overview](#overview)
-- [Approach](#approach)
-- [Installation](#installation)
-- [Technology Stack](#teck-stack)
-- [Observations](#observations)
-- [Test Files](#testfiles)
-- [License](#license)
-- [Credits](#credits)
+- [Overview](#-overview)
+- [Approach](#-approach)
+- [Installation](#-installation)
+- [Technology Stack](#-technology-stack)
+- [Observations](#-observations)
+- [Test Files](-#test-files)
+- [License](#-license)
+- [Credits](#-credits)
 
 ---
 
@@ -69,7 +69,7 @@ Use the files [Python Scripts](Python%20Scripts/) for testing.
 
 ---
 
-## 🛡️ Licence
+## 📜 Licence
 
 MIT [License](LICENSE/) 
 
