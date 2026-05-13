@@ -11,6 +11,7 @@
 - [Test Files](#-test-files)
 - [License](#-license)
 - [Credits](#-credits)
+- [Contact](#-contact)
 
 ---
 
