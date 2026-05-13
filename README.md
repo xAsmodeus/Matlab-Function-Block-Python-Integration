@@ -8,7 +8,7 @@
 - [Installation](#-installation)
 - [Technology Stack](#-technology-stack)
 - [Observations](#-observations)
-- [Test Files](-#test-files)
+- [Test Files](#-test-files)
 - [License](#-license)
 - [Credits](#-credits)
 
